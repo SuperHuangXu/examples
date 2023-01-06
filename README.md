@@ -7,3 +7,5 @@
 - [rollup](https://github.com/SuperHuangXu/examples/tree/master/rollup) rollup 将 typescript 打包为 commonjs / esModule
 
 - [websocket_demo](https://github.com/SuperHuangXu/examples/tree/master/websocket_demo) websocket 聊天室
+
+- [websocket_demo](https://github.com/SuperHuangXu/examples/tree/master/hello) 面试题，纯前端聊天室
